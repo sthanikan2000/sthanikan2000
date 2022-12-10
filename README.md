@@ -1,11 +1,17 @@
-### Hi there👋 I'm Thanikan Sivatheepan....! 
-  - Undergraduate |Department of Computer Science & Engineering | University of Moratuwa
+<img src="img/image_processing20210903-1808-1kqrm0w.gif" height="100px">
+
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  I'm Thanikan Sivatheepan....! 
+  - Undergraduate 🎓 
+  - Department of Computer Science & Engineering 👩🏻‍💻💻
+  - University of Moratuwa  <img src="img/University_of_Moratuwa_logo.png" width="15px" >
+  <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=blue" alt="views" width="200px">
+  
 ---
 
-### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
+### Connect with Me :<img src="./img/Connect-With-Me.gif" alt="drawing" width="50px"/>
 <div id="badges">
   <a href="https://www.facebook.com/thanikan.sivatheepan/">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://www.linkedin.com/in/sthanikan2000/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -71,7 +77,7 @@
 ### 🔥 My Stats :
 
 |<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&theme=light&background=d2eafc" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=light" />|
-|------|----|
+|----|----|
 |<img src="https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=light&show_icons=true" />|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3"/>|
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
