@@ -1,13 +1,5 @@
-
----
-
-### 👨‍💻 About Me :
-- 👋 Hi, I’m @sthanikan2000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
+### Hi there👋 I'm Thanikan Sivatheepan....! 
+  - Undergraduate |Department of Computer Science & Engineering | University of Moratuwa
 ---
 
 ### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
@@ -78,13 +70,12 @@
 
 ### 🔥 My Stats :
 
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sthanikan2000&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&theme=light&background=d2eafc" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=light" />|
 |------|----|
+|<img src="https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=light&show_icons=true" />|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3"/>|
 
 <!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
-<a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="50"/></a>
-<a href="https://www.facebook.com/selvanesan.kajanan.9"><img src="./doc/Facebook.png" alt="drawing" width="40"/></a>&nbsp;&nbsp;
-<!--a href="mailto: kajananselvanesan@gmail.com"><img src="./doc/Gmail.png" alt="drawing" width="40"/></a-->
+
 
 <!---
 sthanikan2000/sthanikan2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
