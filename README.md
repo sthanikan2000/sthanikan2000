@@ -6,7 +6,7 @@
   - Undergraduate 🎓 
   - Department of Computer Science & Engineering 👩🏻‍💻💻
   - University of Moratuwa  <img src="img/University_of_Moratuwa_logo.png" width="15px" >
-  <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=blue" alt="views" width="200px">
+  <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=green" alt="views" width="200px">
   
 ---
 
