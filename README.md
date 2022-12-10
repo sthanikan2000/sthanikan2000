@@ -1,5 +1,7 @@
 <img src="img/image_processing20210903-1808-1kqrm0w.gif" height="100px">
 
+---
+
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  I'm Thanikan Sivatheepan....! 
   - Undergraduate 🎓 
   - Department of Computer Science & Engineering 👩🏻‍💻💻
