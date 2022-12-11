@@ -78,11 +78,9 @@
 
 ### 🔥 My Stats :
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&theme=light&background=d2eafc" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=light" />|
-|----|----|
-|<img src="https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=light&show_icons=true" />|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3"/>|
-
-<!--a href="https://www.linkedin.com/in/kajanan-selvanesan/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&theme=swift&count_private=true&background=f7f7f7" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)|
+| :--: | :--: |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=swift&show_icons=true&count_private=true)|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7"/>|
 
 
 <!---
