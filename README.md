@@ -78,9 +78,9 @@
 
 ### 🔥 My Stats :
 
-|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&theme=swift&count_private=true&background=f7f7f7" />|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)|
+|<img src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&background=f7f7f7" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&theme=swift&layout=compact">|
 | :--: | :--: |
-|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=swift&show_icons=true&count_private=true)|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7"/>|
+|<img src="https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=swift&show_icons=true" />|<img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7"/>|
 
 
 <!---
