@@ -80,7 +80,7 @@
 
 |<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sthanikan2000&background=f7f7f7&hide_border=true" />|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&theme=swift&hide_border=true)|
 | :--: | :--: |
-|![Anura's GitHub stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&show_icons=true&theme=swift)|<a href="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7&hide_border=true"><img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7&hide_border=true"></a>|
+|<a href="https://github-readme-stats.vercel.app/api?username=sthanikan2000&show_icons=true&theme=swift"><img src="https://github-readme-stats.vercel.app/api?username=sthanikan2000&show_icons=true&theme=swift"></a>|<a href="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7&hide_border=true"><img src="https://github-profile-trophy.vercel.app/?username=sthanikan2000&column=3&theme=swift&background=f7f7f7&hide_border=true"></a>|
 
 
 <!---
