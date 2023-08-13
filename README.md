@@ -88,9 +88,9 @@
 
 ### 🔥 My Stats :
 
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sthanikan2000&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
+|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sthanikan2000&theme=light&background=ffffff)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=vision-friendly-light)|
 |------|----|
-|![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sthanikan2000&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
+|![Thanikan's Stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=buefy&show_icons=true)|![Thanikan's github trophy](https://github-profile-trophy.vercel.app/?username=sthanikan2000&row=2&column=3)|
 
 
 <!---
