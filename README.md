@@ -7,7 +7,7 @@
   - Department of Computer Science & Engineering 👩🏻‍💻💻
   - Specializing in Data Science 📊
   - University of Moratuwa  <img src="img/University_of_Moratuwa_logo.png" width="15px" >
-  <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=2493df" alt="views" width="200px">
+ <!-- <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=2493df" alt="views" width="200px"> -->
   
 ---
 
@@ -90,8 +90,9 @@
 
 |![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sthanikan2000&theme=light&background=ffffff)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sthanikan2000&layout=compact&theme=light&background=ffffff)|
 |------|----|
+<!--
 |![Thanikan's Stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=light&background=ffffff&show_icons=true)|![Thanikan's github trophy](https://github-profile-trophy.vercel.app/?username=sthanikan2000&row=2&column=3)|
-
+-->
 
 <!---
 sthanikan2000/sthanikan2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
