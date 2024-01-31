@@ -1,8 +1,10 @@
+<!--
 |<img src="img/welcome2.gif" height="200px">|<img src="img/Data-engineering-services.gif" height="200px">|<img src="img/data-scientist.gif" height="200px">|
 |-----|-----|-----|
 ---
+-->
 
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  I'm Thanikan Sivatheepan....! 
+### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  I'm Thanikan ....! 
   - Undergraduate 🎓 
   - Department of Computer Science & Engineering 👩🏻‍💻💻
   - Specializing in Data Science 📊
@@ -25,9 +27,9 @@
   <a href="https://wa.me/+94774149027">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href="https://www.kaggle.com/thanikansivatheepan">
+  <!-- a href="https://www.kaggle.com/thanikansivatheepan">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+</a-->
   
   <!--a href="https://wa.me/94763068411">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
