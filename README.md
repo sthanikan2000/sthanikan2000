@@ -60,6 +60,8 @@
 |![Thanikan's Stats](https://github-readme-stats.vercel.app/api?username=sthanikan2000&theme=light&background=ffffff&show_icons=true)|![Thanikan's github trophy](https://github-profile-trophy.vercel.app/?username=sthanikan2000&row=2&column=3)|
 
 
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Thanikan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sthanikan2000&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <!---
 sthanikan2000/sthanikan2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
