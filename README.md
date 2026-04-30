@@ -6,7 +6,7 @@
 
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">  I'm Thanikan ....! 
   - Graduate 🎓  from Department of Computer Science & Engineering, University of Moratuwa  <img src="img/University_of_Moratuwa_logo.png" width="15px" >
-  - Software Engineer Fellow at Lanka Software Foundation
+  - Software Engineer at Lanka Software Foundation
  <!-- <img src="https://komarev.com/ghpvc/?username=sthanikan2000&style=flat-square&color=2493df" alt="views" width="200px"> -->
   
 ---
